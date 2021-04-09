@@ -1,0 +1,2 @@
+2021-04-07 20:51:42 下午 [Thread: main][ Class:druid.sql.Connection >> Method: com.alibaba.druid.filter.logging.Log4jFilter.connectionLog(Log4jFilter.java:132) ]
+DEBUG:{conn-10001} connected
